@@ -1,0 +1,5 @@
+\\HHSDC\Ian.McTavish$\Programs\BankAccount\BankAccount\obj\Release\BankAccount.csproj.CoreCompileInputs.cache
+\\HHSDC\Ian.McTavish$\Programs\BankAccount\BankAccount\bin\Release\McTBank.dll
+\\HHSDC\Ian.McTavish$\Programs\BankAccount\BankAccount\bin\Release\McTBank.pdb
+\\HHSDC\Ian.McTavish$\Programs\BankAccount\BankAccount\obj\Release\McTBank.dll
+\\HHSDC\Ian.McTavish$\Programs\BankAccount\BankAccount\obj\Release\McTBank.pdb

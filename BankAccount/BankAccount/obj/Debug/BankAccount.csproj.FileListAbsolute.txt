@@ -1,0 +1,6 @@
+\\HHSDC\Ian.McTavish$\Programs\BankAccount\BankAccount\bin\Debug\BankAccount.dll
+\\HHSDC\Ian.McTavish$\Programs\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+\\HHSDC\Ian.McTavish$\Programs\BankAccount\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+\\HHSDC\Ian.McTavish$\Programs\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+\\HHSDC\Ian.McTavish$\Programs\BankAccount\BankAccount\obj\Debug\BankAccount.dll
+\\HHSDC\Ian.McTavish$\Programs\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
